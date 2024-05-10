@@ -13,11 +13,11 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 
 **Links to Original Datasets**:
 
-- Bone Break Classifier Dataset - (https://www.kaggle.com/datasets/amohankumar/bone-break-classifier-dataset)
+- Bone Break Classifier Dataset - https://www.kaggle.com/datasets/amohankumar/bone-break-classifier-dataset
 
-- bone_fracture Dataset - (https://www.kaggle.com/datasets/abdelazizfaramawy/bone-fracture)
+- bone_fracture Dataset - https://www.kaggle.com/datasets/abdelazizfaramawy/bone-fracture
 
-- fracture Dataset - (https://kaggle.com/datasets/harshaarya/fracture)
+- fracture Dataset - https://kaggle.com/datasets/harshaarya/fracture
 
 ### Tools and Libraries Used
 - Python 3.11.7
