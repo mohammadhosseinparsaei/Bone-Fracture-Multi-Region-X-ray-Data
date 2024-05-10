@@ -11,8 +11,11 @@ Despite the modest hardware specifications (e.g., MX130 GPU), efforts have been 
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/datasets/bmadushanirodrigo/fracture-multi-region-x-ray-data/data).
 **Links to Original Datasets**:
+
 Bone Break Classifier Dataset - [https://www.kaggle.com/datasets/amohankumar/bone-break-classifier-dataset]
+
 bone_fracture Dataset - [https://www.kaggle.com/datasets/abdelazizfaramawy/bone-fracture]
+
 fracture Dataset - [https://kaggle.com/datasets/harshaarya/fracture]
 
 ### Tools and Libraries Used
